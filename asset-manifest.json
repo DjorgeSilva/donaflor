@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/donaflor/static/js/main.ed87297a.chunk.js",
-    "main.js.map": "/donaflor/static/js/main.ed87297a.chunk.js.map",
+    "main.js": "/donaflor/static/js/main.ff38d85f.chunk.js",
+    "main.js.map": "/donaflor/static/js/main.ff38d85f.chunk.js.map",
     "runtime-main.js": "/donaflor/static/js/runtime-main.78c03c8c.js",
     "runtime-main.js.map": "/donaflor/static/js/runtime-main.78c03c8c.js.map",
     "static/css/2.d649c8cc.chunk.css": "/donaflor/static/css/2.d649c8cc.chunk.css",
-    "static/js/2.ac7771e9.chunk.js": "/donaflor/static/js/2.ac7771e9.chunk.js",
-    "static/js/2.ac7771e9.chunk.js.map": "/donaflor/static/js/2.ac7771e9.chunk.js.map",
+    "static/js/2.bcaa8438.chunk.js": "/donaflor/static/js/2.bcaa8438.chunk.js",
+    "static/js/2.bcaa8438.chunk.js.map": "/donaflor/static/js/2.bcaa8438.chunk.js.map",
     "index.html": "/donaflor/index.html",
     "static/css/2.d649c8cc.chunk.css.map": "/donaflor/static/css/2.d649c8cc.chunk.css.map",
-    "static/js/2.ac7771e9.chunk.js.LICENSE.txt": "/donaflor/static/js/2.ac7771e9.chunk.js.LICENSE.txt",
+    "static/js/2.bcaa8438.chunk.js.LICENSE.txt": "/donaflor/static/js/2.bcaa8438.chunk.js.LICENSE.txt",
     "static/media/logo_white.e8053151.png": "/donaflor/static/media/logo_white.e8053151.png",
     "static/media/slider1.2eaa776d.jpg": "/donaflor/static/media/slider1.2eaa776d.jpg",
     "static/media/slider2.21ee328a.jpg": "/donaflor/static/media/slider2.21ee328a.jpg",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.78c03c8c.js",
     "static/css/2.d649c8cc.chunk.css",
-    "static/js/2.ac7771e9.chunk.js",
-    "static/js/main.ed87297a.chunk.js"
+    "static/js/2.bcaa8438.chunk.js",
+    "static/js/main.ff38d85f.chunk.js"
   ]
 }
