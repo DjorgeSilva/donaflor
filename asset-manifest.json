@@ -1,18 +1,42 @@
 {
   "files": {
-    "main.js": "/donaflor/static/js/main.d761e492.chunk.js",
-    "main.js.map": "/donaflor/static/js/main.d761e492.chunk.js.map",
+    "main.js": "/donaflor/static/js/main.ed87297a.chunk.js",
+    "main.js.map": "/donaflor/static/js/main.ed87297a.chunk.js.map",
     "runtime-main.js": "/donaflor/static/js/runtime-main.78c03c8c.js",
     "runtime-main.js.map": "/donaflor/static/js/runtime-main.78c03c8c.js.map",
-    "static/js/2.da6e9a6d.chunk.js": "/donaflor/static/js/2.da6e9a6d.chunk.js",
-    "static/js/2.da6e9a6d.chunk.js.map": "/donaflor/static/js/2.da6e9a6d.chunk.js.map",
+    "static/css/2.d649c8cc.chunk.css": "/donaflor/static/css/2.d649c8cc.chunk.css",
+    "static/js/2.ac7771e9.chunk.js": "/donaflor/static/js/2.ac7771e9.chunk.js",
+    "static/js/2.ac7771e9.chunk.js.map": "/donaflor/static/js/2.ac7771e9.chunk.js.map",
     "index.html": "/donaflor/index.html",
-    "static/js/2.da6e9a6d.chunk.js.LICENSE.txt": "/donaflor/static/js/2.da6e9a6d.chunk.js.LICENSE.txt",
-    "static/media/logo_transparent.f3169089.png": "/donaflor/static/media/logo_transparent.f3169089.png"
+    "static/css/2.d649c8cc.chunk.css.map": "/donaflor/static/css/2.d649c8cc.chunk.css.map",
+    "static/js/2.ac7771e9.chunk.js.LICENSE.txt": "/donaflor/static/js/2.ac7771e9.chunk.js.LICENSE.txt",
+    "static/media/logo_white.e8053151.png": "/donaflor/static/media/logo_white.e8053151.png",
+    "static/media/slider1.2eaa776d.jpg": "/donaflor/static/media/slider1.2eaa776d.jpg",
+    "static/media/slider2.21ee328a.jpg": "/donaflor/static/media/slider2.21ee328a.jpg",
+    "static/media/slider3.3456d943.jpg": "/donaflor/static/media/slider3.3456d943.jpg",
+    "static/media/slider4.fcf8b0b4.jpg": "/donaflor/static/media/slider4.fcf8b0b4.jpg",
+    "static/media/slider5.bd7aa318.jpg": "/donaflor/static/media/slider5.bd7aa318.jpg",
+    "static/media/slider8.64ea4779.jpeg": "/donaflor/static/media/slider8.64ea4779.jpeg",
+    "static/media/vestido1.f42edce0.jpg": "/donaflor/static/media/vestido1.f42edce0.jpg",
+    "static/media/vestido10.0d4fb643.jpg": "/donaflor/static/media/vestido10.0d4fb643.jpg",
+    "static/media/vestido11.09779d62.jpg": "/donaflor/static/media/vestido11.09779d62.jpg",
+    "static/media/vestido12.07bcd1e5.jpg": "/donaflor/static/media/vestido12.07bcd1e5.jpg",
+    "static/media/vestido13.1c1a50d2.jpg": "/donaflor/static/media/vestido13.1c1a50d2.jpg",
+    "static/media/vestido14.4ed6bd05.jpg": "/donaflor/static/media/vestido14.4ed6bd05.jpg",
+    "static/media/vestido15.f3a0e408.jpg": "/donaflor/static/media/vestido15.f3a0e408.jpg",
+    "static/media/vestido2.4cc302c3.jpg": "/donaflor/static/media/vestido2.4cc302c3.jpg",
+    "static/media/vestido3.dd00bbd1.jpg": "/donaflor/static/media/vestido3.dd00bbd1.jpg",
+    "static/media/vestido4.fd4d2376.jpg": "/donaflor/static/media/vestido4.fd4d2376.jpg",
+    "static/media/vestido5.010d121d.jpg": "/donaflor/static/media/vestido5.010d121d.jpg",
+    "static/media/vestido6.3bcbb965.jpg": "/donaflor/static/media/vestido6.3bcbb965.jpg",
+    "static/media/vestido7.10d5a705.jpg": "/donaflor/static/media/vestido7.10d5a705.jpg",
+    "static/media/vestido8.f0a6baf3.jpg": "/donaflor/static/media/vestido8.f0a6baf3.jpg",
+    "static/media/vestido9.eb594071.jpg": "/donaflor/static/media/vestido9.eb594071.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.78c03c8c.js",
-    "static/js/2.da6e9a6d.chunk.js",
-    "static/js/main.d761e492.chunk.js"
+    "static/css/2.d649c8cc.chunk.css",
+    "static/js/2.ac7771e9.chunk.js",
+    "static/js/main.ed87297a.chunk.js"
   ]
 }
